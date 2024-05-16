@@ -1,6 +1,6 @@
 # Prince Leopold Island
 
-**Prince Leopold Island** (, )[1] is an island in the [Qikiqtaaluk
+**Prince Leopold Island** is an island in the [Qikiqtaaluk
 Region](Qikiqtaaluk_Region "wikilink") of [Nunavut](Nunavut "wikilink"),
 Canada. It is located in [Lancaster Sound](Lancaster_Sound "wikilink")
 at the junction of [Prince Regent Inlet](Prince_Regent_Inlet "wikilink")
@@ -15,21 +15,21 @@ species.
 
 Evidence of Inuit habitation in the form of house pits and bones from
 [bowhead whales](bowhead_whale "wikilink") and other marine mammals is
-present on the north and southeast spits of the island.[2] The island
+present on the north and southeast spits of the island. The island
 and Somerset Island to its south were first sighted by a European on
 August 4, 1819, during [William
 Parry's](William_Parry_(explorer) "wikilink") 1819 expedition, who named
 them Prince Leopold's Isles after then prince
 [Leopold](Leopold_I_of_Belgium "wikilink") of
 [Saxe-Coburg-Saalfeld](Saxe-Coburg-Saalfeld "wikilink") (the future King
-[Leopold I of Belgium](Leopold_I_of_Belgium "wikilink")).[3]
+[Leopold I of Belgium](Leopold_I_of_Belgium "wikilink")).
 Ornithological field research began on the island in the 1950s, and an
 [Environment Canada](Environment_and_Climate_Change_Canada "wikilink")
 research station was established on the island in 1975. Research has
 been conducted on the island almost every year since then, for varying
 lengths of time during summer. The camp, situated in the southeast of
 the island, consists of an airstrip, two small plywood cabins, and two
-plywood platform for the erection of temporary structures.[4]
+plywood platform for the erection of temporary structures.
 
 ## Geography and Geology
 
@@ -50,15 +50,15 @@ exist on the plateau; the largest, Far Lake, is about long, and is
 located near the eastern cliffs. There is one [perennial
 stream](perennial_stream "wikilink") on the island, which drains the
 plateau, including Far Lake, through the main gorge, flowing into the
-sea near the southeast spit.[5][6]
+sea near the southeast spit.
 
 The [bedrock](bedrock "wikilink") of the island, which forms the
 prominent cliffs, is [horizontally bedded](bed_(geology) "wikilink")
 [Silurian](Silurian "wikilink") [limestone](limestone "wikilink") and
-[sandstone](sandstone "wikilink").[7] Erosion of the sedimentary rock
+[sandstone](sandstone "wikilink"). Erosion of the sedimentary rock
 has formed crevices and rock ledges on large sections of the cliff
 faces, which provides nesting sites for large numbers of breeding
-seabirds.[8]
+seabirds.
 
 ## Ecology
 
@@ -69,7 +69,7 @@ Area](Important_Bird_Area "wikilink") (#NU006), a federally listed
 [migratory](Bird_migration "wikilink") [bird
 sanctuary](bird_sanctuary "wikilink") since 1995, and a [Key Migratory
 Bird Terrestrial Habitat site](Key_Habitat_Site "wikilink") (NU Site
-15).[9][10]
+15).
 
 ### Flora
 
@@ -85,7 +85,7 @@ highland is in the southeast, where some
 [nodding](Saxifraga_cernua "wikilink") species, and [arctic
 poppy](arctic_poppy "wikilink") can be found. On the south cliffs too,
 growths of [common scurvygrass](Cochlearia "wikilink") and [arctic
-mouse-ear](Cerastium_arcticum "wikilink") occur.[11]
+mouse-ear](Cerastium_arcticum "wikilink") occur.
 
 ### Fauna
 
@@ -125,7 +125,7 @@ The only resident land mammals are a small population of [northern
 collared lemmings](northern_collared_lemming "wikilink"), though visits
 by larger mammals - [caribou](peary_caribou "wikilink"),
 [hares](arctic_hare "wikilink"), [foxes](arctic_fox "wikilink"), and
-[bears](polar_bear "wikilink") - are recorded. [12]
+[bears](polar_bear "wikilink") - are recorded. 
 
 
 ## References
@@ -136,11 +136,3 @@ by larger mammals - [caribou](peary_caribou "wikilink"),
     Island](http://atlas.nrcan.gc.ca/site/english/toporama?center=149469.09020744,2733177.361296&zoom=7)
     in the [Atlas of Canada](Atlas_of_Canada "wikilink") - Toporama;
     Natural Resources Canada
-
-[Category:Uninhabited islands of Qikiqtaaluk
-Region](Category:Uninhabited_islands_of_Qikiqtaaluk_Region "wikilink")
-[Category:Important Bird Areas of Qikiqtaaluk
-Region](Category:Important_Bird_Areas_of_Qikiqtaaluk_Region "wikilink")
-[Category:Important Bird Areas of Arctic
-islands](Category:Important_Bird_Areas_of_Arctic_islands "wikilink")
-[Category:Seabird colonies](Category:Seabird_colonies "wikilink")
