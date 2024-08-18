@@ -1,7 +1,5 @@
 # Swifties
 
-
-
 Swifties are the fandom of the American singer-songwriter Taylor Swift.
 Regarded by journalists as one of the largest, most devoted, and
 influential fan bases, Swifties are known for their high levels of
@@ -34,13 +32,7 @@ including celebrities, who malign Swift. On the other hand, some
 Swifties criticize Swift for her lifestyle and professional choices,
 which journalists disapprove as a parasocial relationship.
 
-
-
-
-
 ## History
-
-
 
 Taylor Swift began writing, recording and releasing country music in
 2006. Before releasing her debut single, "Tim McGraw" (2006), Swift had
@@ -75,10 +67,6 @@ experiment with pop, rock, electronic, folk, and alternative styles,
 helped enlarge her fanbase and diversify its demographics in the
 following decades.
 
-
-
-
-
 ### Etymology
 
 The word "Swiftie" for a Swift fan gained popularity in the late 2000s.
@@ -94,15 +82,7 @@ proclaimed". According to Dictionary.com, the term Swiftie often implies
 that the person is "a very passionate and loyal fan—as opposed to just a
 casual listener."
 
-
-
-
-
 ## Relationship with Swift
-
-
-
-
 
 Swift maintains a close relationship with Swifties, to whom many
 journalists attribute her cultural influence. To The Washington Post,
@@ -118,8 +98,6 @@ surprise visits, participated in some of their functions (such as a
 wedding or a bridal shower), and gifted free tickets to disadvantaged or
 medically ill fans. Swift's habit of lurking her fans online has been
 referred to as "Taylurking" by the fans.
-
-
 
 In June 2010, Swift hosted a 13-hour meet-and-greet as a part of the CMA
 Festival in Nashville, Tennessee. In 2014, 2017 and 2019, she hosted the
@@ -177,15 +155,7 @@ eleventh studio album, The Tortured Poets Department (2024), prominently
 in the tracks "But Daddy I Love Him" and "Who's Afraid of Little Old
 Me?" for encroaching on her private life.
 
-
-
-
-
 ## Lore and community
-
-
-
-
 
 Journalists describe Swift's works, celebrity, and the fanfare
 surrounding them as a world of its own, dubbing it a music "universe"
@@ -212,8 +182,6 @@ Swiftverse is "a fan universe, filled with complex, in-sequence
 narratives that have been contextualized through multiple perspectives"
 across Swift's albums.
 
-
-
 Andrew Unterberger of Spin wrote that symbolisms are "inextricable
 elements of the Taylor Swift experience" and key to understanding her
 work. To Caroline Mimbs Nyce of The Atlantic, Swift's fandom is nearly a
@@ -238,13 +206,7 @@ felt aided in broadening her fanbase. Today senior editor Elena Nicolaou
 reported on how Swifties, who are mostly millennials, have incorporated
 Swiftie culture into their weddings and other events.
 
-
-
-
-
 ### Sociological characteristics
-
-
 
 Swifties have been described as a loyal fanbase with high levels of
 participation and creativity; devoted fans in overseas countries such as
@@ -261,8 +223,6 @@ argue with her fanbase, immaculately devout and mind-bogglingly
 populous." Swifties are a "force"—"a large and powerful group",
 according to the music professor Paula Harper from the University of
 Chicago.
-
-
 
 The consumerist phenomenon of participating in or purchasing anything
 related to Swift has been termed "the Taylor Swift effect" by
@@ -292,15 +252,7 @@ music artists who have cited Swift as an influence, such as Olivia
 Rodrigo, Halsey and Camila Cabello, various other celebrities have
 described themselves as Swifties.
 
-
-
-
-
 ## Industrial impact
-
-
-
-
 
 Swifties have been widely covered for their support for Swift in terms
 of her commercial success. Swift is known for her large CD and vinyl
@@ -378,15 +330,7 @@ string of memes and causing food companies like Heinz, McDonald's, KFC,
 Hidden Valley and Primal Kitchen to pick it up for their products and
 marketing.
 
-
-
-
-
 ## Demographics
-
-
-
-
 
 According to a 2023 survey by Morning Consult, in the U.S., 53% of
 adults said they were fans of Swift, of whom 44% identified as Swifties
@@ -399,13 +343,7 @@ Generation X, and 11% are Generation Z. Journalists have also noted an
 increase in Swift's boomer and Generation X fans, known as "senior
 Swifties".
 
-
-
-
-
 ### Political role
-
-
 
 Brooke Schultz of the Associated Press called Swifties an influential
 voter demographic in U.S. politics: "the sheer power and size of Swift's
@@ -425,21 +363,9 @@ State (ISIS) planned to mass-murder attendees of one of Swift's Eras
 Tour concerts in Vienna, Austria, but the plot was subsequently thwarted
 by Austrian authorities.
 
-
-
-
-
 ## Accolades
 
-
-
-
-
-
-
 ## Criticism
-
-
 
 Swifties have received criticism for certain behaviors. Journalists have
 denounced the parasocial interactions that some Swifties have with
@@ -457,10 +383,6 @@ Following the masters dispute, Braun claimed that he received death
 threats from Swifties. Vice called the fandom an "equal-parts welcoming
 yet gate-kept community caught in the throes of idealistic, obsessive
 celebrity culture".
-
-
-
-
 
 ### Gaylor
 
@@ -493,15 +415,7 @@ lyrics and aesthetics, drawing criticism from Swifties and other
 readers. Subsequently, CNN Business reported that Swift's personnel
 found the article "invasive, untrue and inappropriate".
 
-
-
-
-
 ## Academic study
-
-
-
-
 
 Swifties have been the subject of journalistic and academic interest,
 studied for their social capital, consumerist characteristics and
@@ -520,11 +434,4 @@ satiates the fans' "social media gratifications for entertainment,
 social interactions, and information-seeking." Various universities also
 host fan clubs dedicated to Swift.
 
-
-
-
-
 ## See also
-
-
-
